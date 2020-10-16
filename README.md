@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgpathos&count_private=true&layout=compact"/>
+<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgpathos&count_privatee=true&exclude_repo=cgpathos.github.io&layout=compact"/>
 
 <!--
 **cgpathos/cgpathos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
