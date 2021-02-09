@@ -40,4 +40,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_followup: yes
+#           plugin_followup: yes
