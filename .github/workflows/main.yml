@@ -37,3 +37,5 @@ jobs:
           
       - name: GitHub metrics as SVG image
         uses: lowlighter/metrics@v3.3
+        with:
+          plugin_followup: yes
