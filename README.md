@@ -1,7 +1,6 @@
+![CI](https://github.com/cgpathos/cgpathos/workflows/CI/badge.svg)
+
 ### Hi there 👋
-
-
-<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgpathos&count_private=true&exclude_repo=cgpathos.github.io&layout=compact"/>
 
 
 ![github-metrics](github-metrics.svg)
