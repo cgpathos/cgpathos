@@ -1,4 +1,4 @@
-![CI](https://github.com/cgpathos/cgpathos/workflows/CI/badge.svg)
+[![Git Profile update](https://github.com/cgpathos/cgpathos/actions/workflows/main.yml/badge.svg?branch=main&event=schedule)](https://github.com/cgpathos/cgpathos/actions/workflows/main.yml)
 
 ### Hi there 👋
 
